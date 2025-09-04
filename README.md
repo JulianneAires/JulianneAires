@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou Julianne 👋  
 
-<!--
-**JulianneAires/JulianneAires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 17 anos e sou Técnica em Informática pelo **IFPB**.  
+Atualmente, curso **Engenharia Elétrica** na **UFCG** e tenho experiência em desenvolvimento utilizando **Python, JavaScript, HTML e CSS**.  
+Sou apaixonada por tecnologia, aprendizado constante e por transformar ideias em soluções criativas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Minhas Skills
+- **Linguagens:** Python, JavaScript, HTML, CSS  
+- **Áreas de Interesse:** Desenvolvimento Web, Automação, Engenharia de Software  
+- **Ferramentas:** Git, VS Code, Node.js  
+
+---
+
+## 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianneAires&layout=donut&theme=radical)
+
+---
+
+## 📫 Onde me encontrar
+- 📧 Email: julianneteresaires@gmail.com 
+
+---
+
+✨ *"A tecnologia é uma ponte entre ideias e o futuro."*
