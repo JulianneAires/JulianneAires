@@ -8,7 +8,7 @@ Sou apaixonada por tecnologia, aprendizado constante e por transformar ideias em
 
 ## 🛠 Minhas Skills
 - **Linguagens:** Python, JavaScript, HTML, CSS  
-- **Áreas de Interesse:** Desenvolvimento Web, Automação, Engenharia de Software  
+- **Áreas de Interesse:** Desenvolvimento Web e Engenharia de Software  
 - **Ferramentas:** Git, VS Code, Node.js  
 
 ---
