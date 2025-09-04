@@ -16,11 +16,4 @@ Sou apaixonada por tecnologia, aprendizado constante e por transformar ideias em
 ## 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianneAires&layout=donut&theme=radical)
 
----
 
-## 📫 Onde me encontrar
-- 📧 Email: julianneteresaires@gmail.com 
-
----
-
-✨ *"A tecnologia é uma ponte entre ideias e o futuro."*
